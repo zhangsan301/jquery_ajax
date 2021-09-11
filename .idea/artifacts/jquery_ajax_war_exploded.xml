@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jquery_ajax:war exploded">
+    <output-path>C:/apache-tomcat-8.5.70/webapps/jquery_ajax</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jquery_ajax/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jquery_ajax" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
